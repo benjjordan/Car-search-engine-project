@@ -1,4 +1,4 @@
-# [Project Name]
+# Search Engine
 
 [Value Proposition]
 
