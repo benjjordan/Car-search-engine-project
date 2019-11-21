@@ -6,6 +6,6 @@
 
 ## Links
 
-[Live App](https://repl.it)
+[Live App](https://repl.it/@BenJordan/intro-to-informatics-project)
 
 [Project Board](../../projects/1)
