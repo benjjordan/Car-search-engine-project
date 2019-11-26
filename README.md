@@ -6,6 +6,7 @@
 
 ## Links
 
-[Live App](https://repl.it/@BenJordan/intro-to-informatics-project)
+[Live App](https://repl.it/@BenJordan/final-project-v2-with-more-filters)
+[Live App MVP](https://repl.it/@BenJordan/intro-to-informatics-project)
 
 [Project Board](../../projects/1)
